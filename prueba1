@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M.LIGA 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES   MOVISTAR+",ES: M.LIGA 1080
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: M.LIGA 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png"title="ES   MOVISTAR+",ES: M.LIGA 1080
-acestream://d47addf5e467cbf102ba759600303c21efb1deeb
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: LA LIGA BAR 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES   MOVISTAR+",ES: LA LIGA BAR 1080
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="ES: M.LIGA 2 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES   MOVISTAR+",ES: M.LIGA 2 1080
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 tvg-id="LA 2" tvg-name="ES: M.LIGA 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png"title="ES   MOVISTAR+",ES: M.LIGA 1080
+acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 tvg-id="LA LIGA UHD" tvg-name="ES: LA LIGA BAR UHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES   MOVISTAR+",ES: LA LIGA BAR 1080
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf 
+#EXTINF:-1 tvg-id="LA LIGA 1080P" tvg-name="ES: M.LIGA 2 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES   MOVISTAR+",ES: M.LIGA 2 1080
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280 
 
 
 #EXTINF:-1 tvg-id="La1.TV" tvg-name="ES: LA 2 FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="ES   MOVISTAR+",ES: LA LIGA 720

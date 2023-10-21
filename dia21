@@ -11,3 +11,9 @@ acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1 tvg-id="GETAF-BETIS" tvg-name="ES: GETAF-BETIS" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ES  MOVISTAR+",ES:GETAFE BETIS
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 tvg-id="F1" tvg-name="ES: F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="ES  MOVISTAR+",ES:F1
+acestream://5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 tvg-id="F1" tvg-name="ES: F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="ES  MOVISTAR+",ES:F1
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 tvg-id="F1" tvg-name="ES: F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="ES  MOVISTAR+",ES:F1
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2

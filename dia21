@@ -21,9 +21,11 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-id="F1" tvg-name="ES: F1" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="ES  MOVISTAR+",ES:F1 CARRERA
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
-#EXTINF:-1 tvg-id="CAMPEONES" tvg-name="ES: CAMPEONES" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="ES   MOVISTAR+",ES: LIGA CAMPEONES
+#EXTINF:-1 tvg-id="CAMPEONES" tvg-name="ES: CAMPEONES" tvg-logo=" https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="ES   MOVISTAR+",ES: LIGA CAMPEONES
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1 tvg-id="CAMPEONES" tvg-name="ES: CAMPEONES" tvg-logo=" https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="ES   MOVISTAR+",ES: LIGA CAMPEONES
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-id="CAMPEONES" tvg-name="ES: CAMPEONES" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="ES   MOVISTAR+",ES: LIGA CAMPEONES
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 tvg-id="CAMPEONES" tvg-name="ES: CAMPEONES" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="ES   MOVISTAR+",ES: LIGA CAMPEONES
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
